@@ -1,5 +1,3 @@
-// Ctrl + Shift + V : Preview README
-
 # Ethers Simple Storage FCC
 
 This is a project based on the FreeCodeCamp tutorial
@@ -7,7 +5,7 @@ This is a project based on the FreeCodeCamp tutorial
 To run it:
 
 1. Install ganache on your desktop and run it
-2. Fill the .env.exemple file with the private key of a ganache's wallet
+2. Fill the .env.example file with the private key of a ganache's wallet
 3. Rename .env.exemple file to .env
 4. Run "yarn compile" command in the command prompt
 5. Run "node deploy.js" command in the command prompt
